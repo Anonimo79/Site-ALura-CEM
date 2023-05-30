@@ -1,6 +1,7 @@
 
 .cabeçalho {
     background-color: rgb(#3F3F3F);
+    display: flex;
     width: 77%;
 }
 
