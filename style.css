@@ -8,6 +8,10 @@
     width: 77%;
 }
 
+.cabeçalho-lista {
+    display: flex;
+}
+
 body {
     background-color: rgb(99, 99, 99);
 }
