@@ -1,10 +1,10 @@
 body {
-    background-color: #3F3F3F;
+    background-color: #969696;
 }
 
 
 .cabeçalho {
-    background-color: rgb(#3F3F3F);
+    background-color: rgb(#3f3f3f);
     display: flex;
     color: rgb(3, 2, 2);
     justify-content: space-around;
