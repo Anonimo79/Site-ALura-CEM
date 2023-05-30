@@ -3,6 +3,10 @@ header {
     color:rgb(255, 255, 255)
 }
 
+.cabeçalho {
+    width: 20%;
+}
+
 .logo-CEM {
     position: relative;
 }
