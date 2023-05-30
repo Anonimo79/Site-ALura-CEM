@@ -7,11 +7,6 @@ header {
     position: relative;
 }
 
-h1 {
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
 body {
     background-color: rgb(99, 99, 99);
 }
