@@ -2,16 +2,15 @@
 .cabeçalho {
     background-color: rgb(#3F3F3F);
     display: flex;
+    color: rgb(255, 255, 255);
+    justify-content: space-around;
+
 }
 
 .logo-CEM {
-    width: 77%;
+    width: 20%;
 }
 
 .cabeçalho-lista {
-    display: flex;
-}
-
-body {
-    background-color: rgb(99, 99, 99);
+    display: inline-block
 }
