@@ -4,14 +4,17 @@ body {
 
 
 .cabeçalho {
-    background-color: rgb(#3f3f3f);
     display: flex;
     color: rgb(3, 2, 2);
     justify-content: space-around;
     align-items: center;
+    background-color: rgb(#3f3f3f);
+
 }
 
-
+.logo-CEM {
+    width: 20%;
+}
 
 .lista-cabeçalho-item {
     display: inline-block;
