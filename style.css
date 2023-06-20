@@ -25,10 +25,16 @@ body {
 
 }
 
-.h1 {
+.primeiro capitulo {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: 100;
+}
+
+.primeiro paragráfo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+
 }
 
