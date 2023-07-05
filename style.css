@@ -12,15 +12,15 @@ body {
 
 }
 
-.logo-CEM {
-    width: 20%;
+.lista-cabeçalho-item {
+    display: inline-block;
+    margin: 0 16px;
     background-color: rgb(#3f3f3f);
 
 }
 
-.lista-cabeçalho-item {
-    display: inline-block;
-    margin: 0 16px;
+.logo-CEM {
+    width: 20%;
     background-color: rgb(#3f3f3f);
 
 }
