@@ -4,11 +4,13 @@ body {
 
 
 .header {
-    display: flex;
-    color: rgb(3, 2, 2);
-    justify-content: space-around;
-    align-items: center;
+    height: 70px;
+    width: 100%;
     background-color: rgb(#ff0000);
+    position: fixed;
+    z-index: 1;
+    align-items: center;
+    color: rgb(255, 253, 253);
 
 }
 
