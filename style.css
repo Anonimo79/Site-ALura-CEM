@@ -13,7 +13,7 @@ body {
     background: linear-gradient(to right, topo, #222222 0%, #575f59 50%, #222222 100%);
 }
 
-.lista-cabeçalho {
+.lista-cabeçalho-item {
     display: inline-block;
     margin: 0 16px;
     background-color: rgb(#fff9f9);
