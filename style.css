@@ -4,16 +4,13 @@ body {
 
 
 .header {
-    height: 70px;
-    width: 100%;
-    margin-top: -10px;
-    margin-bottom: 5px;
-    margin-right: 50px;
-    margin-left: 50px;
-    background-color: gray;
-    border-radius: 0px 0px 10px 10px;
-    position: fixed;
-    z-index: 1;
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
+    background: #0F4607;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: -webkit-linear-gradient(topo, #0F4607 0%, #00882A 50%, #0F4607 100%);
+    background: linear-gradient(to right, #0F4607 0%, #00882A 50%, #0F4607 100%);
 }
 
 .lista-cabeçalho-item {
