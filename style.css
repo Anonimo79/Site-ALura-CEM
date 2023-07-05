@@ -13,16 +13,16 @@ body {
     background: linear-gradient(to right, topo, #222222 0%, #575f59 50%, #222222 100%);
 }
 
-.lista-cabeçalho-item {
+.lista-cabeçalho {
     display: inline-block;
     margin: 0 16px;
-    background-color: rgb(#3f3f3f);
+    background-color: rgb(#fff9f9);
 
 }
 
 .logo-CEM {
     width: 20%;
-    background-color: rgb(#3f3f3f);
+    background-color: rgb(#ffffff);
 
 }
 
