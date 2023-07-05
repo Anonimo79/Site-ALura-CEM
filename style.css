@@ -3,12 +3,17 @@ body {
 }
 
 
-.cabeçalho {
-    display: flex;
-    color: rgb(3, 2, 2);
-    justify-content: space-around;
-    align-items: center;
-    background-color: rgb(#494343);
+.header {
+    height: 70px;
+    width: 100%;
+    margin-top: -10px;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: gray;
+    border-radius: 0px 0px 10px 10px;
+    position: fixed;
+    z-index: 1;
 
 }
 
