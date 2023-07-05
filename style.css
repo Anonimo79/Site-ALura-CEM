@@ -8,9 +8,9 @@ body {
     box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
     background: #363232;
     padding: 20px;
-    background: -moz-linear-gradient(topo, #222222 0%, #303632 50%, #222222 100%);
-    background: -webkit-linear-gradient(topo, topo, #222222 0%, #303632 50%, #222222 100%);
-    background: linear-gradient(to right, topo, #222222 0%, #303632 50%, #222222 100%);
+    background: -moz-linear-gradient(topo, #222222 0%, #575f59 50%, #222222 100%);
+    background: -webkit-linear-gradient(topo, topo, #222222 0%, #575f59 50%, #222222 100%);
+    background: linear-gradient(to right, topo, #222222 0%, #575f59 50%, #222222 100%);
 }
 
 .lista-cabeçalho-item {
