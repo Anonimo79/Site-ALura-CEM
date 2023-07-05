@@ -26,34 +26,17 @@ body {
 
 }
 
-.h1 {
+.top1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: 100;
 }
 
-.h2 {
+.top2 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     font-weight: 100;
 }
 
-.primeiro p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 50;
-
-}
-
-.segundo p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 50;
-}
-
-.footer {
-    height: 70px;
-    background-color: gray;
-    border-radius: 5px;
-    clear: both;
-}
