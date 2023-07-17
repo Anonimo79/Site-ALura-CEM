@@ -4,15 +4,13 @@ body {
 
 
 .header {
-    background-color: #3F3F3F;
+    background-color: #ff0000;
     
 }
 
 .lista-cabeçalho-item {
     display: inline-block;
     margin: 0 16px;
-    background-color: rgb(#fff9f9);
-
 }
 
 .top1 {
