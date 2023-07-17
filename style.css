@@ -4,12 +4,24 @@ body {
 
 
 .header22 {
-    background-color: #3F3F3F;
-    
+ background-color: #3F3F3F;
+ position: fixed;
+ width: 100%;
+ top: 0;
+}
+
+header, nav ul {
+ display: flex;
+ justify-content: space-between;
+ padding: 1rem;
+}
+
+nav ul li {
+ margin-left: 1rem;
 }
 
 .logotipo {
-    margin-left: 15px
+    margin-left: 25px
 }
 
 .lista-cabeçalho-item {
