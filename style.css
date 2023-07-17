@@ -11,10 +11,10 @@ body {
 }
 
 .logotipo {
-    margin-left: 25px
+    margin-left: 40px
 }
 
-.lista-cabeçalho-item {
+.cabeçalho-lista {
     display: inline-block;
     margin: 0 16px;
     color: white;
