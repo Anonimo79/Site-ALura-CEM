@@ -5,7 +5,10 @@ body {
 
 .header22 {
  background-color: #3F3F3F;
- 
+ position: fixed;
+ width: 100%;
+ top: 0;
+}
 
 .logotipo {
     margin-left: 25px
