@@ -7,6 +7,7 @@ body {
 .header22 {
  background-color: #3F3F3F;
  position: fixed;
+ width: 100%;
 }
 
 .logotipo {
