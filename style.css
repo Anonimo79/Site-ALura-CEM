@@ -28,7 +28,7 @@ body {
 
 #buttom {
     background-color: black;
-    display: inline-block;
+    display: inline-flex;
     height: 60px;
     line-height: 60px;
     padding-left: 20px;
