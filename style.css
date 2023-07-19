@@ -11,6 +11,10 @@ body {
  display: flex;
 }
 
+nav {
+    text-align: right;
+}
+
 .logotipo {
     margin-left: 40px
 }
