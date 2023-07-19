@@ -48,6 +48,7 @@ nav {
 
 #buttom:hover {
     background-color: #969696;
+    transition: 1s;
 }
 
 /* FIM DO MENU*/
