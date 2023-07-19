@@ -56,7 +56,8 @@ nav {
 
 /* INICIO DO CORPO PRINCIPAL*/
 
-.h1 {
+.Titulo1 {
+    padding-top: 30px;
     font-size: 30px;
 }
 
