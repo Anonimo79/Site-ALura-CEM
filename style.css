@@ -6,13 +6,11 @@ body {
 
 .header22 {
  background-color: #3F3F3F;
- position: fixed;
  width: 100%;
  display: flex;
  justify-content: space-between;
  align-items: center;
  padding-left: 0 40px 0 40px;
- position: fixed;
 }
 
 
