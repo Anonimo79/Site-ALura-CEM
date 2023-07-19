@@ -39,15 +39,15 @@ nav {
 #buttom {
     background-color: black;
     display: inline-flex;
-    height: 40px;
-    line-height: 40px;
-    padding-left: 15px;
-    padding-right: 15px;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 6px;
 }
 
 #buttom:hover {
-    background-color: #969696;
+    background-color: #c2c2c2;
     transition: 1s
 }
 
