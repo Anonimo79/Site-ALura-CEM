@@ -8,12 +8,11 @@ body {
  background-color: #3F3F3F;
  position: fixed;
  width: 100%;
- display: flex;
+ display: inline-block
  justify-content: space-between;
 }
 
 nav {
-    text-align: right;
     text-align: center;
 }
 
