@@ -8,6 +8,7 @@ body {
  background-color: #3F3F3F;
  position: fixed;
  width: 100%;
+ display: flex;
 }
 
 .logotipo {
