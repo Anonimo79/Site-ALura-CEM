@@ -57,11 +57,15 @@ nav {
 /* INICIO DO CORPO PRINCIPAL*/
 
 div {
-    padding: 120px 0px 20px 45px
+    padding: 120px 0px 20px 90px;
 }
 
 .Titulo1 {
     font-size: 30px;
+}
+
+.p {
+    padding: 1px 700px 0px 0px;
 }
 
 
