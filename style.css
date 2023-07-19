@@ -39,8 +39,8 @@ nav {
 #buttom {
     background-color: black;
     display: inline-flex;
-    height: 60px;
-    line-height: 60px;
+    height: 40px;
+    line-height: 40px;
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 6px;
@@ -48,7 +48,7 @@ nav {
 
 #buttom:hover {
     background-color: #969696;
-    transition: 2s
+    transition: 1s
 }
 
 /* FIM DO MENU*/
