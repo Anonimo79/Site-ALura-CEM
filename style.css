@@ -46,6 +46,10 @@ nav {
     border-radius: 7px;
 }
 
+#buttom:hover {
+    background-color: #969696;
+}
+
 /* FIM DO MENU*/
 
 
