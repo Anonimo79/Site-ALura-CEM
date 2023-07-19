@@ -8,16 +8,13 @@ body {
  background-color: #3F3F3F;
  position: fixed;
  width: 100%;
- display: inline-block
+ display: flex;
  justify-content: space-between;
 }
 
 nav {
     text-align: center;
-}
-
-.logotipo {
-    margin-left: 40px
+    padding: 10px;
 }
 
 .lista-menu {
