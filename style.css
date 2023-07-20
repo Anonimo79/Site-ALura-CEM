@@ -98,6 +98,7 @@ nav {
 
 .foto-colegio2 {
 
+    display: flex;
     float: left;
     border: transparent thin solid;
 
