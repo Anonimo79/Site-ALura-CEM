@@ -61,6 +61,11 @@ div {
     padding: 120px 600px 20px 90px;
 }
 
+.foto-colegio {
+    float: left;
+    border: transparent thin solid;
+}
+
 .Titulo1 {
     padding: 0px 0px 15px 0px;
     font-size: 30px;
