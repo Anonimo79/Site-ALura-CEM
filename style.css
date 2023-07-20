@@ -15,7 +15,7 @@ body {
 
 
 .logotipo{
-    padding-left: 45px;
+    padding-left: 162px;
 }
 
 
@@ -56,7 +56,7 @@ nav {
 
 /* INICIO DO CORPO PRINCIPAL*/
 
-div {
+.divisão1 {
     padding: 120px 293px 20px 90px;
 }
 
@@ -90,6 +90,8 @@ div {
     line-height: normal;
 
 }
+
+
 
 
 
