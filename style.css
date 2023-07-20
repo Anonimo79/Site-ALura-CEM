@@ -133,6 +133,8 @@ nav {
     padding: 67px;
 }
 
+/* INICIO DO RODAPÉ*/
+
 .rodape {
     background-color: #3F3F3F;
     display: flex;
@@ -140,8 +142,9 @@ nav {
     align-items: center;
 }
 
-.logotipofinal {
-}
+
+
+/*FIM DO RODAPÉ*/
 
 
 
