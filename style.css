@@ -67,8 +67,14 @@ div {
 
 .Titulo1 {
     padding: 115px 0px 20px 62px;
-    font-size: 30px;
     display: flex;
+    color: #020202;
+    font-family: Maitree;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
 }
 
 .subtitulo {
@@ -77,6 +83,11 @@ div {
     flex-direction: column;
     flex-wrap: wrap;
     font-family: 'League Spartan', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
 }
 
 
