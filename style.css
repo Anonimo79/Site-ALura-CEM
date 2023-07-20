@@ -57,7 +57,7 @@ nav {
 /* INICIO DO CORPO PRINCIPAL*/
 
 div {
-    padding: 120px 600px 20px 90px;
+    padding: 120px 490px 20px 90px;
 }
 
 .foto-colegio {
@@ -74,6 +74,8 @@ div {
 .subtitulo {
     display: flex;
     padding: 11px 0px 0px 62px;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 
