@@ -93,7 +93,39 @@ nav {
 
 .divisão2 {
     background-color: red;
+}
+
+.foto-colegio2 {
+
+    float: left;
+    border: transparent thin solid;
     
+}
+
+.Titulo2 {
+    padding: 115px 0px 20px 62px;
+    display: flex;
+    color: #020202;
+    font-family: Maitree;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.subtitulo2 {
+    display: flex;
+    padding: 0px 0px 0px 62px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
 }
 
 
