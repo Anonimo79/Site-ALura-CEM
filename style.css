@@ -27,6 +27,7 @@ nav {
 .lista-menu {
     display: inline-flex;
     margin: 0 18px;
+    text-decoration: none;
     color: white;
     font-family: Lato;
     font-size: 20px;
