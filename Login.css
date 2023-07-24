@@ -136,10 +136,11 @@ body {
 }
 
 .btn {
-    background-color: #4d4d4d;
+    background-color: black;
     color: #fff;
     font-size: 14px;
     font-weight: 600;
+    border: none !important;
     transition: all linear 160ms;
     cursor: pointer;
     margin: 0 !important;
@@ -148,8 +149,7 @@ body {
 
 .btn:hover {
     transform: scale(1.05);
-    background-color: transparent;
-    color: black;
-    border: black;
+    background-color: #4d4d4d;
+    color: black
 
 }
