@@ -136,7 +136,7 @@ body {
 }
 
 .btn {
-    background-color: #f72585;
+    background-color: transparent;
     color: #fff;
     font-size: 14px;
     font-weight: 600;
@@ -149,6 +149,6 @@ body {
 
 .btn:hover {
     transform: scale(1.05);
-    background-color: #ff0676;
+    background-color: #4d4d4d;
 
 }
