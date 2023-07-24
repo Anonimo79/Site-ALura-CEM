@@ -56,6 +56,13 @@ nav {
 
 /*INICIO DA TELA DE LOGIN*/
 
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #023047
+}
+
 .page {
     display: flex;
     flex-direction: column;
