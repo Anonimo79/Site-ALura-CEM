@@ -151,5 +151,6 @@ body {
     transform: scale(1.05);
     background-color: transparent;
     color: black;
+    border: black;
 
 }
