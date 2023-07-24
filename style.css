@@ -44,12 +44,12 @@ nav {
     padding-left: 25px;
     padding-right: 25px;
     border-radius: 40px;
-    transition: transform 2s linear;
+    transition: all linear 160ms;
 }
 
 #buttom:hover {
     background-color: #6e6e6e;
-    transition: 1s
+    transform: scale(1.05);
 }
 
 /* FIM DO MENU*/
